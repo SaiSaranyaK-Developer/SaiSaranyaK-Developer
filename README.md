@@ -78,8 +78,8 @@ I have a wide range of skills that include back-end development using open sourc
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=SaiSaranyaK-Developer&&style=flat-square)  
-![Visitor Count](https://profile-counter.glitch.me/aakashdeveloper/count.svg)
+ 
+
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
@@ -87,6 +87,10 @@ I have a wide range of skills that include back-end development using open sourc
     <img src="https://github-profile-trophy.vercel.app/?username=SaiSaranyaK-Developer&column=7"/>
   </a>
 </div>
+<h4>Profile views</h4>
+
+![Visitor Count](https://profile-counter.glitch.me/SaiSaranyaK-Developer/count.svg)
+
   
 
 <br/>  
